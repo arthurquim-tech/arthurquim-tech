@@ -10,7 +10,10 @@
 ###
 
 - 🎓 Estudante de Engenharia de Software
-- ...
+- 💻 Tecnologia da Informação e suporte técnico.
+- 🐍 Aprendendo programação e desenvolvimento de software.
+- 🤖 Interesse em Inteligência Artificial e automação.
+- 📚 Sempre buscando aprender e evoluir.
 - 🚀 Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário </p>
 
 ###

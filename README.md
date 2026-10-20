@@ -1,7 +1,7 @@
 ## Olá, eu sou o Arthur Quim! 👨‍💻✌️
 
 ###
->Estudante de Engenharia de Software 
+>Estudante de Engenharia de Software ... 
 
 ###
 
@@ -10,8 +10,8 @@
 ###
 
 - 🎓 Estudante de Engenharia de Software
--...
-- 🚀 Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário ou Jovem Aprendiz</p>
+- ...
+- 🚀 Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário </p>
 
 ###
 

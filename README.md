@@ -1,7 +1,7 @@
 ## Olá, eu sou o Arthur Quim! 👨‍💻✌️
 
 ###
->Estudante de Engenharia de Software ... 
+>Estudante de Engenharia de Software | Desenvolvimento de Software e Inovação Tecnológica | Python + HTML + CSS + Banco de dados | Buscando Oportunidades para Aprender e Contribuir em Projetos Desafiadores
 
 ###
 

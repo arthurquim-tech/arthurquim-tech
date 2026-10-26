@@ -1,4 +1,4 @@
-## Olá, eu sou o Arthur Quim! 👨‍💻✌️
+## Olá, eu sou o Arthur Quim! 
 
 ###
 >Estudante de Engenharia de Software | Desenvolvimento de Software e Inovação Tecnológica | Python + HTML + CSS + Banco de dados | Buscando Oportunidades para Aprender e Contribuir em Projetos Desafiadores
@@ -9,12 +9,12 @@
 
 ###
 
-- 🎓 Estudante de Engenharia de Software
-- 💻 Tecnologia da Informação e suporte técnico.
-- 🐍 Aprendendo programação e desenvolvimento de software.
-- 🤖 Interesse em Inteligência Artificial e automação.
-- 📚 Sempre buscando aprender e evoluir.
-- 🚀 Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário </p>
+-  Estudante de Engenharia de Software
+-  Tecnologia da Informação e suporte técnico.
+-  Aprendendo programação e desenvolvimento de software.
+-  Interesse em Inteligência Artificial e automação.
+-  Sempre buscando aprender e evoluir.
+-  Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário </p>
 
 ###
 
